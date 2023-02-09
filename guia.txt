@@ -1,1 +1,2 @@
+https://www.youtube.com/watch?v=Aq7rVJB0on0&list=PLo3l2rVOZXxUQZjfIfxLT7SGiQOhzzuH-
 https://github.com/manoharkhadka1/realtime-chat-application-laravel-socket/tree/master/database/migrations
